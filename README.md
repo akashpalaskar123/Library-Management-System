@@ -6,3 +6,4 @@ The project is to build an application program to reduce the manual work for man
 - Spring
 - HML/CSS
 - Mysql
+- Tomcat Server
